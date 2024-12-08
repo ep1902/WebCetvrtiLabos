@@ -1,0 +1,19 @@
+.images {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 10px;
+  justify-items: center;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.images img {
+  width: 400px;
+  height: auto;
+  display: block;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
